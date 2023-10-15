@@ -4,6 +4,6 @@ Portability library to customize CL implementations' REPL prompt.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/aartaka/trivial-toplevel-prompt.git |
-| commit  | 8bec5ff                                                    |
+| commit  | de4597f                                                    |
 | systems | trivial-toplevel-prompt                                    |
 |---------+------------------------------------------------------------|
